@@ -1,0 +1,4 @@
+$ terminology --version
+Version: 0.7.0
+ERR<27545>:efreet_cache lib/efreet/efreet_cache.c:1108 on_send_register() org.enlightenment.DBus.Canceled Canceled by user.
+
